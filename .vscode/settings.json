@@ -1,0 +1,4 @@
+{
+  "python.jediEnabled": false,
+  "python.pythonPath": "${workspaceFolder}\\env\\Scripts\\python.exe"
+}
